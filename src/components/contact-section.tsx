@@ -53,25 +53,25 @@ export function ContactSection() {
     {
       name: "GitHub",
       icon: Github,
-      href: "https://github.com",
+      href: "https://github.com/surajshelke2",
       description: "Check out my code repositories"
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/suraj-shelke-7546b3249/",
       description: "Let's connect professionally"
     },
     {
       name: "GeeksforGeeks",
       icon: ExternalLink,
-      href: "https://geeksforgeeks.org",
+      href: "https://www.geeksforgeeks.org/user/surajshe5rdb/",
       description: "View my coding profile"
     },
     {
       name: "LeetCode",
       icon: ExternalLink,
-      href: "https://leetcode.com",
+      href: "https://leetcode.com/u/suraj_shelke_10/",
       description: "See my problem-solving skills"
     }
   ]

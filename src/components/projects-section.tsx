@@ -10,7 +10,7 @@ export function ProjectsSection() {
       title: "PaySplit Next.js",
       description: "A comprehensive payment splitting application built with Next.js, supporting seamless user withdrawals and merchant payments. Features secure authentication and real-time transaction processing.",
       technologies: ["Next.js", "Node.js", "React", "PostgreSQL", "Monorepo"],
-      github: "#",
+      github: "https://github.com/surajshelke2/PayNow",
       demo: "#",
       featured: true
     },
@@ -18,7 +18,7 @@ export function ProjectsSection() {
       title: "Medium Blog Website",
       description: "A full-featured blogging platform similar to Medium with user authentication, rich text editor, and responsive design. Built with modern web technologies for optimal performance.",
       technologies: ["React", "Hono", "RESTful APIs", "PostgreSQL", "Tailwind CSS"],
-      github: "#",
+      github: "https://github.com/surajshelke2/Medium-blog",
       demo: "#",
       featured: true
     },
@@ -26,15 +26,15 @@ export function ProjectsSection() {
       title: "Video Calling Application",
       description: "Real-time video calling application with features like Stream.io integration, Clerk Authentication, and Shadcn UI components. Supports multiple participants and screen sharing.",
       technologies: ["Next.js", "Stream.io", "Clerk Authentication", "Shadcn UI"],
-      github: "#",
-      demo: "#",
+      github: "https://github.com/surajshelke2/we-chat",
+      demo: "https://github.com/surajshelke2/we-chat",
       featured: false
     },
     {
-      title: "Integrated Clerk",
-      description: "User authentication and scalable management system integrated with modern applications. Features one-time video calls and seamless user experience.",
+      title: "Spotify",
+      description: "A Spotify clone application featuring user authentication, music playback, and playlist management",
       technologies: ["React", "JWT", "Shadcn UI"],
-      github: "#",
+      github: "https://spotify-clone-psi-ashy.vercel.app/",
       demo: "#",
       featured: false
     }
